@@ -2833,28 +2833,6 @@ body {
 .cid-rwOQLiKEbZ .mbr-section-subtitle {
   color: #1b160e;
 }
-.cid-ryl0yvNkTW {
-  background: #ffffff;
-  padding-top: 45px;
-  padding-bottom: 60px;
-  background: linear-gradient(0deg, #ffffff, #ffffff);
-}
-.cid-ryl0yvNkTW .image-block {
-  margin: auto;
-}
-.cid-ryl0yvNkTW figcaption {
-  position: relative;
-}
-.cid-ryl0yvNkTW figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-ryl0yvNkTW .image-block {
-    width: 100% !important;
-  }
-}
 .cid-rwOSaHjSYh {
   background: #ffffff;
   padding-top: 0px;
