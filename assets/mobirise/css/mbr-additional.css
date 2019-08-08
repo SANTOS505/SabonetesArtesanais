@@ -2200,6 +2200,28 @@ body {
   padding-bottom: 15px;
   background-image: url("../../../assets/images/design-sem-nome-2-1920x1080.jpg");
 }
+.cid-ryAbKqGvnh {
+  background: #ffffff;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-ryAbKqGvnh .image-block {
+  margin: auto;
+}
+.cid-ryAbKqGvnh figcaption {
+  position: relative;
+}
+.cid-ryAbKqGvnh figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-ryAbKqGvnh .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rwI8SescwW {
   padding-top: 30px;
   padding-bottom: 30px;
