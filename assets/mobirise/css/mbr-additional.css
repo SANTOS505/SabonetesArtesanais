@@ -1816,12 +1816,15 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-ryzN14gpQ2 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+  padding-top: 120px;
+  padding-bottom: 45px;
+  background-color: #0a9a08;
 }
 .cid-ryzN14gpQ2 .mbr-section-subtitle {
-  color: #767676;
+  color: #fcff15;
+}
+.cid-ryzN14gpQ2 H2 {
+  color: #ffffff;
 }
 .cid-ryvGrbrShD {
   background: #7ee465;
