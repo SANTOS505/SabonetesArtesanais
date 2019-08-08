@@ -1415,12 +1415,12 @@ body {
 }
 .cid-rwOUlwEkR6 .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
 }
 .cid-rwOUlwEkR6 .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #ffffff;
 }
 .cid-rwOUlwEkR6 a {
   font-style: normal;
@@ -1511,7 +1511,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rwOUlwEkR6 .dropdown .dropdown-menu {
-  background: #333333;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1658,7 +1658,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rwOUlwEkR6 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
+    max-height: calc(98.5vh - 4rem);
   }
 }
 .cid-rwOUlwEkR6 .collapsed button.navbar-toggler {
@@ -1812,38 +1812,27 @@ body {
 .cid-rwOUlwEkR6 .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rrINqwyiMe {
+.cid-ryvGrbrShD {
+  background: #7ee465;
   padding-top: 120px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/sabonetes.cosmeticosartesanais-54247676-123386165429558-988503543967926000-n-1079x565.jpg");
+  background: linear-gradient(0deg, #ffffff, #7ee465);
 }
-.cid-rrINqwyiMe .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
+.cid-ryvGrbrShD .image-block {
+  margin: auto;
 }
-@media (min-width: 992px) {
-  .cid-rrINqwyiMe .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
+.cid-ryvGrbrShD figcaption {
+  position: relative;
+}
+.cid-ryvGrbrShD figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-ryvGrbrShD .image-block {
+    width: 100% !important;
   }
-}
-@media (max-width: 991px) {
-  .cid-rrINqwyiMe .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rrINqwyiMe .mbr-text {
-    text-align: center;
-  }
-}
-.cid-rrINqwyiMe B {
-  color: #006806;
-}
-.cid-rrINqwyiMe .mbr-text,
-.cid-rrINqwyiMe .mbr-section-btn {
-  color: #ffffff;
 }
 .cid-rrNdUwNPe7 {
   padding-top: 60px;
@@ -1893,45 +1882,36 @@ body {
   padding-bottom: 1.5rem;
 }
 .cid-rrNiABYObd H1 {
-  color: #0afc07;
+  color: #0a9a08;
 }
 .cid-rrNiABYObd .mbr-text,
 .cid-rrNiABYObd .mbr-section-btn {
   color: #1b160e;
 }
-.cid-ryooqiDPEy {
-  padding-top: 30px;
-  padding-bottom: 0px;
+.cid-ryu9VQ2EwQ {
+  padding-top: 60px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-ryooqiDPEy h3 {
+.cid-ryu9VQ2EwQ h3 {
   text-align: center;
+}
+.cid-ryu9VQ2EwQ .mbr-section-subtitle {
+  color: #767676;
   font-weight: 300;
 }
-.cid-ryooqiDPEy .wrap {
-  width: 150px;
-  height: 150px;
-  margin: 0 auto;
-}
-.cid-ryooqiDPEy .mbr-section-subtitle {
+.cid-ryu9VQ2EwQ .mbr-content-text {
   color: #767676;
 }
-.cid-ryooqiDPEy .card {
-  -webkit-flex-basis: 100%;
-  flex-basis: 100%;
+.cid-ryu9VQ2EwQ .panel-item {
+  background: #ffffff;
+}
+.cid-ryu9VQ2EwQ .card {
   word-wrap: break-word;
 }
-.cid-ryooqiDPEy ellipse {
-  stroke: rgba(206, 206, 206, 0.4);
-}
-.cid-ryooqiDPEy path {
-  stroke: #149dcc;
-}
-@media (max-width: 991px) and (min-width: 768px) {
-  .cid-ryooqiDPEy .card {
-    -webkit-flex-basis: 33%;
-    flex-basis: 33%;
-  }
+.cid-ryu9VQ2EwQ .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
 }
 .cid-rwJlxx4jwc {
   padding-top: 60px;
@@ -2862,12 +2842,12 @@ body {
 }
 .cid-rwOUlwEkR6 .navbar {
   padding: .5rem 0;
-  background: #333333;
+  background: #ffffff;
   transition: none;
   min-height: 77px;
 }
 .cid-rwOUlwEkR6 .navbar-dropdown.bg-color.transparent.opened {
-  background: #333333;
+  background: #ffffff;
 }
 .cid-rwOUlwEkR6 a {
   font-style: normal;
@@ -2958,7 +2938,7 @@ body {
   padding-bottom: 0;
 }
 .cid-rwOUlwEkR6 .dropdown .dropdown-menu {
-  background: #333333;
+  background: #ffffff;
   display: none;
   position: absolute;
   min-width: 5rem;
