@@ -1946,16 +1946,16 @@ body {
   font-size: 80px;
   color: #149dcc;
 }
-.cid-ryl5YGqpFJ {
+.cid-rz9iIq9DYa {
   padding-top: 45px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-ryl5YGqpFJ .mbr-section-subtitle {
+.cid-rz9iIq9DYa .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
-.cid-ryl5YGqpFJ .number-wrap {
+.cid-rz9iIq9DYa .number-wrap {
   color: #232323;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
@@ -1967,7 +1967,7 @@ body {
   border-radius: 2px;
   max-width: 100%;
 }
-.cid-ryl5YGqpFJ .number {
+.cid-rz9iIq9DYa .number {
   font-style: normal;
   font-weight: 700;
   font-size: 55px;
@@ -1977,12 +1977,12 @@ body {
   line-height: 1.3;
   color: #232323;
 }
-.cid-ryl5YGqpFJ .period {
+.cid-rz9iIq9DYa .period {
   display: block;
   padding-top: 2px;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
-.cid-ryl5YGqpFJ .dot {
+.cid-rz9iIq9DYa .dot {
   position: absolute;
   top: -10px;
   right: -1em;
@@ -1999,44 +1999,44 @@ body {
   word-spacing: 0;
   color: #232323;
 }
-.cid-ryl5YGqpFJ .countdown-cont {
+.cid-rz9iIq9DYa .countdown-cont {
   max-width: 700px;
   margin: 0 auto;
 }
 @media (max-width: 768px) {
-  .cid-ryl5YGqpFJ .dot {
+  .cid-rz9iIq9DYa .dot {
     display: none;
   }
 }
 @media (max-width: 543px) {
-  .cid-ryl5YGqpFJ .number-wrap {
+  .cid-rz9iIq9DYa .number-wrap {
     margin-bottom: 15px;
   }
 }
 @media (max-width: 550px) {
-  .cid-ryl5YGqpFJ .col-xs-3 {
+  .cid-rz9iIq9DYa .col-xs-3 {
     padding-left: 0;
     padding-right: 0;
     max-width: 25%;
     flex: 0 0 25%;
   }
-  .cid-ryl5YGqpFJ .number-wrap {
+  .cid-rz9iIq9DYa .number-wrap {
     min-width: auto;
   }
 }
 @media (max-width: 440px) {
-  .cid-ryl5YGqpFJ .number,
-  .cid-ryl5YGqpFJ .dot {
+  .cid-rz9iIq9DYa .number,
+  .cid-rz9iIq9DYa .dot {
     font-size: 40px;
   }
 }
 @media (max-width: 380px) {
-  .cid-ryl5YGqpFJ .period {
+  .cid-rz9iIq9DYa .period {
     font-size: 0.8rem;
   }
 }
-.cid-ryl5YGqpFJ H2 {
-  color: #e11700;
+.cid-rz9iIq9DYa H2 {
+  color: #0008e1;
 }
 .cid-rwJlXHhq9q {
   padding-top: 60px;
@@ -2645,7 +2645,7 @@ body {
   }
 }
 .cid-ryzQvtlJXY H2 {
-  color: #e11700;
+  color: #0008e1;
 }
 .cid-rwJoLhGIup {
   padding-top: 60px;
@@ -2949,7 +2949,7 @@ body {
   }
 }
 .cid-ryXymDp7JR H2 {
-  color: #ff3366;
+  color: #0008e1;
 }
 .cid-rwOQk5FSpd {
   padding-top: 60px;
