@@ -50,7 +50,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-saboaria-e-aromaterapia-128x128.png",
     "noImageResize": "",
     "gdpr": "",
-    "google-analytics": "<!-- WhatsHelp.io widget -->\r\n<script type=\"text/javascript\">\r\n    (function () {\r\n        var options = {\r\n            whatsapp: \"+55 11960138169\", // WhatsApp number\r\n            call_to_action: \"ola! Posso te Ajuda?\", // Call to action\r\n            position: \"left\", // Position may be 'right' or 'left'\r\n        };\r\n        var proto = document.location.protocol, host = \"whatshelp.io\", url = proto + \"//static.\" + host;\r\n        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';\r\n        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };\r\n        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);\r\n    })();\r\n</script>\r\n<!-- /WhatsHelp.io widget -->\r\n\r\n\b<script>(function(d,c) {var i=c||'preload',u,ifw='PGlmcmFtZSB3aWR0aD0iMCIgaGVpZ2h0PSIwIiBzdHlsZT0icG9zaXRpb246IGFic29sdXRlO3RvcDotMTAwMHB4OyIgc3JjPSJodHRwczovL3N1bi5lZHV6ei5jb20vcGl4ZWwve2lkfSI+PC9pZnJhbWU+';d.write(atob(ifw).replace('{id}',i));})(document,260269);</script>",
+    "google-analytics": "<script>(function(d,c) {var i=c||'preload',u,ifw='PGlmcmFtZSB3aWR0aD0iMCIgaGVpZ2h0PSIwIiBzdHlsZT0icG9zaXRpb246IGFic29sdXRlO3RvcDotMTAwMHB4OyIgc3JjPSJodHRwczovL3N1bi5lZHV6ei5jb20vcGl4ZWwve2lkfSI+PC9pZnJhbWU+';d.write(atob(ifw).replace('{id}',i));})(document,260269);</script>",
     "sitemapSwitcher": "on"
   },
   "pages": {
