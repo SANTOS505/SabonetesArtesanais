@@ -2441,6 +2441,24 @@ body {
 .cid-rwJ1iByiZr .item-role P {
   color: #ffffff;
 }
+.cid-rzmXEX2Hy4 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rzmXEX2Hy4 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rzmXEX2Hy4 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rzmXEX2Hy4 .mbr-text {
+  color: #232323;
+}
 .cid-rwJjMRGuj5 {
   padding-top: 30px;
   padding-bottom: 30px;
