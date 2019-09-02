@@ -2331,6 +2331,19 @@ body {
     width: 100% !important;
   }
 }
+.cid-rAUMTx6kVJ {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rAUMTx6kVJ .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rAUMTx6kVJ .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rwJojhQM0O {
   padding-top: 90px;
   padding-bottom: 45px;
