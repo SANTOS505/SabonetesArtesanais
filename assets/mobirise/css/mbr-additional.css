@@ -1758,7 +1758,6 @@ body {
   background: #ff933c;
   padding-top: 75px;
   padding-bottom: 75px;
-  background: linear-gradient(0deg, #ff933c, #ff933c);
 }
 .cid-rAz8sIB9Al .image-block {
   margin: auto;
@@ -1782,8 +1781,8 @@ body {
   background-color: #197218;
 }
 .cid-rzmczF742U .line {
-  background-color: #efefef;
-  color: #efefef;
+  background-color: #0f7d02;
+  color: #0f7d02;
   align: center;
   height: 2px;
   margin: 0 auto;
