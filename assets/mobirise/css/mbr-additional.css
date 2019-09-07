@@ -1838,14 +1838,14 @@ body {
 .cid-rAmZZNSkls {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #036b01;
+  background-color: #ffffff;
 }
 .cid-rAmZZNSkls .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
 .cid-rAmZZNSkls .number-wrap {
-  color: #ffffff;
+  color: #ff4646;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
@@ -1864,7 +1864,7 @@ body {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-rAmZZNSkls .period {
   display: block;
@@ -1886,7 +1886,7 @@ body {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #ffffff;
+  color: #000000;
 }
 .cid-rAmZZNSkls .countdown-cont {
   max-width: 700px;
@@ -1925,7 +1925,7 @@ body {
   }
 }
 .cid-rAmZZNSkls H2 {
-  color: #fff000;
+  color: #ff4646;
 }
 .cid-rwJlXHhq9q {
   padding-top: 60px;
@@ -2629,14 +2629,14 @@ body {
 .cid-rrNdUwNPe7 {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-color: #073b4c;
+  background-color: #ffffff;
 }
 .cid-rrNdUwNPe7 H1 {
   color: #fc8807;
 }
 .cid-rrNdUwNPe7 .mbr-text,
 .cid-rrNdUwNPe7 .mbr-section-btn {
-  color: #ffffff;
+  color: #000000;
   text-align: center;
 }
 .cid-rrNdUwNPe7 H3 {
@@ -2656,17 +2656,17 @@ body {
 .cid-rwOQk5FSpd H2 {
   color: #149dcc;
 }
-.cid-rAz93WETqQ {
+.cid-rBlt3pDVLc {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #036b01;
+  background-color: #ffffff;
 }
-.cid-rAz93WETqQ .mbr-section-subtitle {
+.cid-rBlt3pDVLc .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
-.cid-rAz93WETqQ .number-wrap {
-  color: #ffffff;
+.cid-rBlt3pDVLc .number-wrap {
+  color: #ff4646;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
@@ -2677,7 +2677,7 @@ body {
   border-radius: 2px;
   max-width: 100%;
 }
-.cid-rAz93WETqQ .number {
+.cid-rBlt3pDVLc .number {
   font-style: normal;
   font-weight: 700;
   font-size: 55px;
@@ -2685,14 +2685,14 @@ body {
   letter-spacing: -2px;
   word-spacing: 0;
   line-height: 1.3;
-  color: #ffffff;
+  color: #000000;
 }
-.cid-rAz93WETqQ .period {
+.cid-rBlt3pDVLc .period {
   display: block;
   padding-top: 2px;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
-.cid-rAz93WETqQ .dot {
+.cid-rBlt3pDVLc .dot {
   position: absolute;
   top: -10px;
   right: -1em;
@@ -2707,46 +2707,68 @@ body {
   text-transform: none;
   letter-spacing: 0;
   word-spacing: 0;
-  color: #ffffff;
+  color: #000000;
 }
-.cid-rAz93WETqQ .countdown-cont {
+.cid-rBlt3pDVLc .countdown-cont {
   max-width: 700px;
   margin: 0 auto;
 }
 @media (max-width: 768px) {
-  .cid-rAz93WETqQ .dot {
+  .cid-rBlt3pDVLc .dot {
     display: none;
   }
 }
 @media (max-width: 543px) {
-  .cid-rAz93WETqQ .number-wrap {
+  .cid-rBlt3pDVLc .number-wrap {
     margin-bottom: 15px;
   }
 }
 @media (max-width: 550px) {
-  .cid-rAz93WETqQ .col-xs-3 {
+  .cid-rBlt3pDVLc .col-xs-3 {
     padding-left: 0;
     padding-right: 0;
     max-width: 25%;
     flex: 0 0 25%;
   }
-  .cid-rAz93WETqQ .number-wrap {
+  .cid-rBlt3pDVLc .number-wrap {
     min-width: auto;
   }
 }
 @media (max-width: 440px) {
-  .cid-rAz93WETqQ .number,
-  .cid-rAz93WETqQ .dot {
+  .cid-rBlt3pDVLc .number,
+  .cid-rBlt3pDVLc .dot {
     font-size: 40px;
   }
 }
 @media (max-width: 380px) {
-  .cid-rAz93WETqQ .period {
+  .cid-rBlt3pDVLc .period {
     font-size: 0.8rem;
   }
 }
-.cid-rAz93WETqQ H2 {
-  color: #fff000;
+.cid-rBlt3pDVLc H2 {
+  color: #ff4646;
+}
+.cid-rBltFtXXS0 {
+  background: #ffffff;
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-rBltFtXXS0 .image-block {
+  margin: auto;
+}
+.cid-rBltFtXXS0 figcaption {
+  position: relative;
+}
+.cid-rBltFtXXS0 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rBltFtXXS0 .image-block {
+    width: 100% !important;
+  }
 }
 .cid-rwOQyM5mDy {
   padding-top: 60px;
@@ -2757,7 +2779,7 @@ body {
   color: #232323;
 }
 .cid-rwOQyM5mDy H2 {
-  color: #1b160e;
+  color: #ff4646;
 }
 .cid-ryzUp73z0K {
   background: #ffffff;
@@ -2817,7 +2839,7 @@ body {
 .cid-rwOTMrjJPQ {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #006806;
+  background-image: url("../../../assets/images/background5.jpg");
 }
 .cid-rB9vPlOl9X {
   padding-top: 30px;
