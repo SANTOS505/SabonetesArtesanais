@@ -1572,11 +1572,6 @@ body {
 .cid-rwOUlwEkR6 .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
 }
-@media (min-width: 992px) {
-  .cid-rwOUlwEkR6 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
-}
 .cid-rwOUlwEkR6 .collapsed button.navbar-toggler {
   display: block;
 }
@@ -2842,23 +2837,24 @@ body {
 }
 .cid-rB9vPlOl9X {
   padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+  padding-bottom: 15px;
+  background-color: #26e900;
 }
 .cid-rB9vPlOl9X .mbr-text,
 .cid-rB9vPlOl9X .mbr-section-btn {
-  color: #00ff06;
+  color: #ffffff;
+  text-align: left;
 }
 .cid-rB9Xlwkiqb {
-  padding-top: 60px;
-  padding-bottom: 30px;
-  background-color: #ff142e;
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #fff000;
 }
 .cid-rB9Xlwkiqb .mbr-section-subtitle {
   color: #767676;
 }
 .cid-rB9Xlwkiqb H2 {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-rB9xOSaUda {
   padding-top: 30px;
@@ -3141,11 +3137,6 @@ body {
 .cid-rwOUlwEkR6 .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rwOUlwEkR6 .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
-}
-@media (min-width: 992px) {
-  .cid-rwOUlwEkR6 .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3.8rem);
-  }
 }
 .cid-rwOUlwEkR6 .collapsed button.navbar-toggler {
   display: block;
