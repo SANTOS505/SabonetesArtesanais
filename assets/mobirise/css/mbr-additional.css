@@ -1746,10 +1746,10 @@ body {
 .cid-ryAcyKAXsy {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #0b6b00;
 }
 .cid-ryAcyKAXsy .mbr-section-subtitle {
-  color: #232323;
+  color: #fcff00;
 }
 .cid-ryAcyKAXsy H2 {
   color: #465052;
@@ -1834,6 +1834,48 @@ body {
 .cid-rrNiABYObd .mbr-section-btn {
   color: #1b160e;
 }
+.cid-rwI6hXtNzi {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/design-sem-nome-2-1920x1080.jpg");
+}
+.cid-rAz4jhjmjW {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffaa4d;
+}
+.cid-rAz4jhjmjW .card-box {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.cid-rAz4jhjmjW h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rAz4jhjmjW p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rAz4jhjmjW .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rAz4jhjmjW .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rAz4jhjmjW .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-rAz4jhjmjW P {
+  color: #232323;
+}
 .cid-rAmZZNSkls {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1844,7 +1886,7 @@ body {
   font-weight: 300;
 }
 .cid-rAmZZNSkls .number-wrap {
-  color: #ff4646;
+  color: #eb0000;
   border-color: rgba(255, 255, 255, 0.15);
   position: relative;
   display: inline-block;
@@ -1924,18 +1966,18 @@ body {
   }
 }
 .cid-rAmZZNSkls H2 {
-  color: #ff4646;
+  color: #eb0000;
 }
 .cid-rwJlXHhq9q {
   padding-top: 60px;
   padding-bottom: 45px;
-  background-color: #073b4c;
+  background-color: #ffffff;
 }
 .cid-rwJlXHhq9q H2 {
-  color: #ffffff;
+  color: #002dff;
 }
 .cid-rwJlXHhq9q .mbr-section-subtitle {
-  color: #ffffff;
+  color: #eb0000;
 }
 .cid-rAbumtzluk {
   padding-top: 30px;
@@ -1943,7 +1985,7 @@ body {
   background-color: #ffffff;
 }
 .cid-rAbumtzluk H2 {
-  color: #ef031d;
+  color: #000000;
 }
 .cid-rAbumtzluk .mbr-section-subtitle {
   color: #232323;
@@ -1970,6 +2012,21 @@ body {
     width: 100% !important;
   }
 }
+.cid-rwJmsIzBES {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rwJmsIzBES .mbr-text,
+.cid-rwJmsIzBES blockquote {
+  color: #767676;
+}
+.cid-rwJmsIzBES .mbr-text P {
+  text-align: center;
+}
+.cid-rwJmsIzBES .mbr-text {
+  color: #232323;
+}
 .cid-rCtJEaZDjB {
   background: #ffffff;
   padding-top: 0px;
@@ -1991,21 +2048,6 @@ body {
   .cid-rCtJEaZDjB .image-block {
     width: 100% !important;
   }
-}
-.cid-rwJmsIzBES {
-  padding-top: 15px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rwJmsIzBES .mbr-text,
-.cid-rwJmsIzBES blockquote {
-  color: #767676;
-}
-.cid-rwJmsIzBES .mbr-text P {
-  text-align: center;
-}
-.cid-rwJmsIzBES .mbr-text {
-  color: #232323;
 }
 .cid-ryu9VQ2EwQ {
   padding-top: 60px;
@@ -2148,48 +2190,6 @@ body {
 .cid-rwHVr1gYXW P {
   text-align: center;
   color: #0fb60d;
-}
-.cid-rwI6hXtNzi {
-  padding-top: 60px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/design-sem-nome-2-1920x1080.jpg");
-}
-.cid-rAz4jhjmjW {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffaa4d;
-}
-.cid-rAz4jhjmjW .card-box {
-  background-color: #ffffff;
-  padding: 2rem;
-}
-.cid-rAz4jhjmjW h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rAz4jhjmjW p {
-  color: #767676;
-  text-align: left;
-}
-.cid-rAz4jhjmjW .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rAz4jhjmjW .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-.cid-rAz4jhjmjW .card-img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  overflow: hidden;
-}
-.cid-rAz4jhjmjW P {
-  color: #232323;
 }
 .cid-rwIRWwe3pX {
   padding-top: 60px;
@@ -2650,7 +2650,7 @@ body {
 .cid-rrNdUwNPe7 {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-color: #073b4c;
+  background-color: #0f7d02;
 }
 .cid-rrNdUwNPe7 H1 {
   color: #fc8807;
