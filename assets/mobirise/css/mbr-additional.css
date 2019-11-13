@@ -1051,24 +1051,17 @@ section.lazy-placeholder:after {
 .cid-rEpQKVb7Ej H2 {
   color: #465052;
 }
-.cid-rAz8sIB9Al {
-  background: #ffffff;
-  padding-top: 30px;
-  padding-bottom: 75px;
+.cid-rHF0NvGQz1 {
+  background: #b2ffaa;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(0deg, #b2ffaa, #ffffff);
 }
-.cid-rAz8sIB9Al .image-block {
+.cid-rHF0NvGQz1 .video-block {
   margin: auto;
 }
-.cid-rAz8sIB9Al figcaption {
-  position: relative;
-}
-.cid-rAz8sIB9Al figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
 @media (max-width: 768px) {
-  .cid-rAz8sIB9Al .image-block {
+  .cid-rHF0NvGQz1 .video-block {
     width: 100% !important;
   }
 }
