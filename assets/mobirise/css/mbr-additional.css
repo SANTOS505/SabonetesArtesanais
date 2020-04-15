@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Paytone+One:400&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Mukta:200,300,400,500,600,700,800&display=swap);
 
 
 
@@ -17,7 +17,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Paytone One', sans-serif;
+  font-family: 'Mukta', sans-serif;
   font-size: 3rem;
   font-display: swap;
 }
@@ -1033,13 +1033,13 @@ section.lazy-placeholder:after {
 .cid-ryzN14gpQ2 {
   padding-top: 105px;
   padding-bottom: 30px;
-  background-color: #ab05dd;
+  background-color: #ffffff;
 }
 .cid-ryzN14gpQ2 .mbr-section-subtitle {
-  color: #fcff15;
+  color: #465052;
 }
 .cid-ryzN14gpQ2 H2 {
-  color: #ffffff;
+  color: #218104;
 }
 .cid-rScNpIZn8C {
   padding-top: 0px;
@@ -1066,7 +1066,7 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rScTU1hOCM {
-  background: #ab05dd;
+  background: #2de65e;
   padding-top: 45px;
   padding-bottom: 45px;
 }
@@ -1085,6 +1085,15 @@ section.lazy-placeholder:after {
   .cid-rScTU1hOCM .image-block {
     width: 100% !important;
   }
+}
+.cid-rWbDyPM8OC {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rWbDyPM8OC .mbr-section {
+  text-align: center;
+  color: #fff;
 }
 .cid-rJI49xe5ss {
   padding-top: 0px;
