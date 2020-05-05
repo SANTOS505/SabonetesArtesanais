@@ -792,7 +792,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ab05dd;
+  background-color: #232323;
 }
 .cid-rwOUlwEkR6 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1033,13 +1033,13 @@ section.lazy-placeholder:after {
 .cid-ryzN14gpQ2 {
   padding-top: 105px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-ryzN14gpQ2 .mbr-section-subtitle {
-  color: #465052;
+  color: #f7ed4a;
 }
 .cid-ryzN14gpQ2 H2 {
-  color: #218104;
+  color: #ffffff;
 }
 .cid-rScNpIZn8C {
   padding-top: 0px;
@@ -1065,31 +1065,24 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rScTU1hOCM {
-  background: #2de65e;
-  padding-top: 45px;
-  padding-bottom: 45px;
+.cid-rY8K7L4yQL {
+  background: #465052;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: linear-gradient(0deg, #465052, #232323);
 }
-.cid-rScTU1hOCM .image-block {
+.cid-rY8K7L4yQL .video-block {
   margin: auto;
 }
-.cid-rScTU1hOCM figcaption {
-  position: relative;
-}
-.cid-rScTU1hOCM figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
 @media (max-width: 768px) {
-  .cid-rScTU1hOCM .image-block {
+  .cid-rY8K7L4yQL .video-block {
     width: 100% !important;
   }
 }
 .cid-rJI49xe5ss {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-rJI49xe5ss .line {
   background-color: #149dcc;
@@ -1100,6 +1093,7 @@ section.lazy-placeholder:after {
 }
 .cid-rJI49xe5ss .section-text {
   padding: 2rem 0;
+  color: #ffffff;
 }
 .cid-rJI49xe5ss .inner-container {
   margin: 0 auto;
@@ -1111,7 +1105,7 @@ section.lazy-placeholder:after {
 }
 .cid-rJI3KLrxS0 {
   background: #ffffff;
-  padding-top: 30px;
+  padding-top: 0px;
   padding-bottom: 60px;
 }
 .cid-rJI3KLrxS0 .image-block {
@@ -1130,47 +1124,65 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rzmXEX2Hy4 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #55b4d4;
+.cid-rrO9cE2B8O {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #6b018b;
 }
-@media (min-width: 992px) {
-  .cid-rzmXEX2Hy4 .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rzmXEX2Hy4 .mbr-figure {
-    padding-bottom: 1rem;
-  }
-}
-.cid-rzmXEX2Hy4 .mbr-text {
+.cid-rrO9cE2B8O .line {
+  background-color: #ffffff;
   color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rrO9cE2B8O .section-text {
+  padding: 2rem 0;
+  color: #ffffff;
+}
+.cid-rrO9cE2B8O .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rrO9cE2B8O .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rrNLRVTmnv {
+  padding-top: 90px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/sabonetes.cosmeticosartesanais-54247676-123386165429558-988503543967926000-n-1079x565.jpg");
+}
+.cid-rrNLRVTmnv h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rrNLRVTmnv p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rrNLRVTmnv .card-box {
+  padding-top: 2rem;
+}
+.cid-rrNLRVTmnv .card-wrapper {
+  height: 100%;
+}
+.cid-rrNLRVTmnv .card-title {
+  text-align: center;
 }
 .cid-rwI6hXtNzi {
   padding-top: 30px;
   padding-bottom: 0px;
   background-image: url("../../../assets/images/design-sem-nome-2-1920x1080.jpg");
 }
-.cid-rEpQKVb7Ej {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rEpQKVb7Ej .mbr-section-subtitle {
-  color: #232323;
-}
-.cid-rEpQKVb7Ej H2 {
-  color: #465052;
-}
 .cid-rAz4jhjmjW {
   padding-top: 15px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/soap-lavendar-herbal-getty-890x501.png");
+  background-color: #ffffff;
 }
 .cid-rAz4jhjmjW .card-box {
-  background-color: #2de65e;
+  background-color: #ff952a;
   padding: 2rem;
 }
 .cid-rAz4jhjmjW h4 {
@@ -1223,6 +1235,72 @@ section.lazy-placeholder:after {
   .cid-rScQl2yZ6Z .inner-container {
     width: 100% !important;
   }
+}
+.cid-rzmXEX2Hy4 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #4f4943;
+}
+@media (min-width: 992px) {
+  .cid-rzmXEX2Hy4 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rzmXEX2Hy4 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rzmXEX2Hy4 .mbr-text {
+  color: #ffffff;
+}
+.cid-rwHV3xDqd1 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #232323;
+}
+.cid-rwHV3xDqd1 .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rwHV3xDqd1 .section-text {
+  padding: 2rem 0;
+  color: #ffffff;
+}
+.cid-rwHV3xDqd1 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rwHV3xDqd1 .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-rwHVr1gYXW {
+  padding-top: 75px;
+  padding-bottom: 45px;
+  background-image: url("../../../assets/images/design-sem-nome-1920x1080.jpg");
+}
+.cid-rwHVr1gYXW h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rwHVr1gYXW p {
+  color: #767676;
+  text-align: left;
+}
+.cid-rwHVr1gYXW .card-box {
+  padding-top: 2rem;
+}
+.cid-rwHVr1gYXW .card-wrapper {
+  height: 100%;
+}
+.cid-rwHVr1gYXW P {
+  text-align: center;
+  color: #465052;
 }
 .cid-rzmczF742U {
   padding-top: 0px;
@@ -1342,6 +1420,17 @@ section.lazy-placeholder:after {
 .cid-rwJlXHhq9q .mbr-section-subtitle {
   color: #ffffff;
 }
+.cid-rEpQKVb7Ej {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rEpQKVb7Ej .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-rEpQKVb7Ej H2 {
+  color: #465052;
+}
 .cid-rJI5j0gV6D {
   background: #ffffff;
   padding-top: 15px;
@@ -1399,53 +1488,6 @@ section.lazy-placeholder:after {
   font-size: 80px;
   color: #149dcc;
 }
-.cid-rrO9cE2B8O {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #6b018b;
-}
-.cid-rrO9cE2B8O .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rrO9cE2B8O .section-text {
-  padding: 2rem 0;
-  color: #ffffff;
-}
-.cid-rrO9cE2B8O .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rrO9cE2B8O .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-rrNLRVTmnv {
-  padding-top: 90px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/sabonetes.cosmeticosartesanais-54247676-123386165429558-988503543967926000-n-1079x565.jpg");
-}
-.cid-rrNLRVTmnv h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rrNLRVTmnv p {
-  color: #767676;
-  text-align: left;
-}
-.cid-rrNLRVTmnv .card-box {
-  padding-top: 2rem;
-}
-.cid-rrNLRVTmnv .card-wrapper {
-  height: 100%;
-}
-.cid-rrNLRVTmnv .card-title {
-  text-align: center;
-}
 .cid-ryGW4wpj4a {
   background: #ffffff;
   padding-top: 60px;
@@ -1467,54 +1509,6 @@ section.lazy-placeholder:after {
   .cid-ryGW4wpj4a .image-block {
     width: 100% !important;
   }
-}
-.cid-rwHV3xDqd1 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #232323;
-}
-.cid-rwHV3xDqd1 .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-rwHV3xDqd1 .section-text {
-  padding: 2rem 0;
-  color: #ffffff;
-}
-.cid-rwHV3xDqd1 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-rwHV3xDqd1 .inner-container {
-    width: 100% !important;
-  }
-}
-.cid-rwHVr1gYXW {
-  padding-top: 75px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/design-sem-nome-1920x1080.jpg");
-}
-.cid-rwHVr1gYXW h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rwHVr1gYXW p {
-  color: #767676;
-  text-align: left;
-}
-.cid-rwHVr1gYXW .card-box {
-  padding-top: 2rem;
-}
-.cid-rwHVr1gYXW .card-wrapper {
-  height: 100%;
-}
-.cid-rwHVr1gYXW P {
-  text-align: center;
-  color: #465052;
 }
 .cid-rwJjMRGuj5 {
   padding-top: 0px;
@@ -1700,13 +1694,13 @@ section.lazy-placeholder:after {
   padding-right: 1rem;
 }
 .cid-rwOL87IRSc H4 {
-  color: #ab05dd;
+  color: #232323;
 }
 .cid-rwOL87IRSc .panel-text {
   color: #1b160e;
 }
 .cid-rwOL87IRSc H2 {
-  color: #ab05dd;
+  color: #232323;
 }
 .cid-rykDeQKmiF {
   padding-top: 0px;
@@ -1747,7 +1741,7 @@ section.lazy-placeholder:after {
   padding-right: 1rem;
 }
 .cid-rykDeQKmiF H4 {
-  color: #ab05dd;
+  color: #232323;
 }
 .cid-rykDeQKmiF .panel-text {
   color: #232323;
@@ -1755,7 +1749,7 @@ section.lazy-placeholder:after {
 .cid-rwOPeskq89 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ab05dd;
+  background-color: #ff952a;
 }
 @media (min-width: 992px) {
   .cid-rwOPeskq89 .mbr-figure {
@@ -1790,7 +1784,7 @@ section.lazy-placeholder:after {
   color: #232323;
 }
 .cid-rwOQyM5mDy H2 {
-  color: #ab05dd;
+  color: #073b4c;
 }
 .cid-ryzUp73z0K {
   background: #ffffff;
@@ -1846,30 +1840,6 @@ section.lazy-placeholder:after {
   .cid-rwOSaHjSYh .image-block {
     width: 100% !important;
   }
-}
-.cid-rScSaSQ7Ai {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #232323;
-}
-.cid-rScSaSQ7Ai .title {
-  margin-bottom: 2rem;
-}
-.cid-rScSaSQ7Ai .mbr-section-subtitle {
-  color: #efefef;
-}
-.cid-rScSaSQ7Ai a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rScSaSQ7Ai a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rScSaSQ7Ai textarea.form-control {
-  min-height: 188px;
-}
-.cid-rScSaSQ7Ai H2 {
-  color: #ffffff;
 }
 .cid-rwOTMrjJPQ {
   padding-top: 30px;
