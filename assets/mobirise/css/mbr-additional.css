@@ -1083,6 +1083,17 @@ section.lazy-placeholder:after {
 .cid-sSNsl2Lw2J H2 {
   color: #d70036;
 }
+.cid-rwJoLhGIup {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rwJoLhGIup H2 {
+  color: #ef031d;
+}
+.cid-rwJoLhGIup .mbr-section-subtitle {
+  color: #232323;
+}
 .cid-s7i603ZYRb {
   padding-top: 15px;
   padding-bottom: 0px;
@@ -1250,49 +1261,6 @@ section.lazy-placeholder:after {
 }
 @media (max-width: 768px) {
   .cid-s3pg3sQUMj .image-block {
-    width: 100% !important;
-  }
-}
-.cid-s2egzdZTB2 {
-  background: #ffffff;
-  padding-top: 15px;
-  padding-bottom: 45px;
-}
-.cid-s2egzdZTB2 .image-block {
-  margin: auto;
-}
-.cid-s2egzdZTB2 figcaption {
-  position: relative;
-}
-.cid-s2egzdZTB2 figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-s2egzdZTB2 .image-block {
-    width: 100% !important;
-  }
-}
-.cid-s2eeN3WcqY {
-  background: #ffffff;
-  padding-top: 0px;
-  padding-bottom: 45px;
-  background: linear-gradient(0deg, #ffffff, #ffffff);
-}
-.cid-s2eeN3WcqY .image-block {
-  margin: auto;
-}
-.cid-s2eeN3WcqY figcaption {
-  position: relative;
-}
-.cid-s2eeN3WcqY figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-s2eeN3WcqY .image-block {
     width: 100% !important;
   }
 }
@@ -1808,17 +1776,6 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rAbuC08xyn .mbr-section-subtitle {
-  color: #232323;
-}
-.cid-rwJoLhGIup {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
-}
-.cid-rwJoLhGIup H2 {
-  color: #ef031d;
-}
-.cid-rwJoLhGIup .mbr-section-subtitle {
   color: #232323;
 }
 .cid-rJIcYnztkU {
@@ -2871,6 +2828,11 @@ section.lazy-placeholder:after {
 .cid-rwOUlwEkR6 .collapsed .navbar-collapse.collapsing .navbar-buttons:last-child,
 .cid-rwOUlwEkR6 .collapsed .navbar-collapse.show .navbar-buttons:last-child {
   margin-bottom: 1rem;
+}
+@media (min-width: 992px) {
+  .cid-rwOUlwEkR6 .collapsed:not(.navbar-short) .navbar-collapse {
+    max-height: calc(98.5vh - 3.8rem);
+  }
 }
 .cid-rwOUlwEkR6 .collapsed button.navbar-toggler {
   display: block;
